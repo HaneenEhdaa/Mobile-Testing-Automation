@@ -22,6 +22,7 @@ then add two buttons the first to save data and the second to navigate to the pa
 
 
 ## Screens 
- <img src="https://github.com/user-attachments/assets/024a71e6-ff54-440c-b23c-19d1b72685b5" alt="Image" width="300">
-<img src="https://github.com/user-attachments/assets/aa425219-8fc7-47f1-aed9-656c5c62785e" alt="Image" width="300">
+<img src="https://github.com/user-attachments/assets/024a71e6-ff54-440c-b23c-19d1b72685b5" alt="Image" width="500">
+ 
+<img src="https://github.com/user-attachments/assets/aa425219-8fc7-47f1-aed9-656c5c62785e" alt="Image" width="500">
 
